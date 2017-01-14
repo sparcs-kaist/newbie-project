@@ -1,7 +1,7 @@
 # SPARCS Newbie Projects!
 
 ## 2016 Fall
-- please add here
+- gunwoo: Journey (https://github.com/gunwooterry/journey)
 
 
 ## Example
