@@ -5,4 +5,4 @@
 
 
 ## Example
-- samjo: My CV ([Github](https://github.com/a1sams1a/a1sams1a.github.io/), [Live Page](http://me.sambradjo.net))
+- sparcs: The Project ([Github](https://github.com/sparcs-kaist/), [Live Page](http://sparcs.org))
